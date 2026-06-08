@@ -1,103 +1,103 @@
 [
 	{
-	  "name": "Harbinger CubeSat Program",
-	  "featured": true,
-	  "short_description": "Led the development of a cost-effective CubeSat program, achieving one of the quickest turnaround times in the industry while adhering to budget constraints.",
-	  "images": [
-		{
-		  "source": "./projects/cubesat/thermal.testing.jpg",
-		  "caption": "Final assembly of the CubeSat prototype, showcasing the integrated electronics and structural components."
-		},
-		{
-		  "source": "./projects/cubesat/cad.png",
-		  "caption": "CAD model of the cubesat."
-		},
-		{
-		  "source": "./projects/cubesat/battery.fea.png",
-		  "caption": "FEA thermal analysis of the battery packs."
-		}
-	  ],
-	  "long_description": "As Program Manager / Chief Engineer for the Harbinger CubeSat, I oversaw all aspects of its development, from conceptualization to prototype assembly. My responsibilities included leading cross-functional teams (mechanical, electrical, software), managing project timelines and budgets, and mitigating technical risks. I personally contributed to the design of critical PCBs for power distribution and communication. The embedded flight software was developed primarily in Rust, focusing on reliability and resource efficiency, crucial for space applications. This project significantly enhanced my skills in systems engineering, project management, and embedded software development."
+		"name": "Harbinger CubeSat Program",
+		"featured": true,
+		"short_description": "Led the development of a cost-effective CubeSat program, achieving one of the quickest turnaround times in the industry while adhering to budget constraints.",
+		"images": [
+			{
+				"source": "./projects/cubesat/thermal.testing.jpg",
+				"caption": "Final assembly of the CubeSat prototype, showcasing the integrated electronics and structural components."
+			},
+			{
+				"source": "./projects/cubesat/cad.png",
+				"caption": "CAD model of the cubesat."
+			},
+			{
+				"source": "./projects/cubesat/battery.fea.png",
+				"caption": "FEA thermal analysis of the battery packs."
+			}
+		],
+		"long_description": "As Program Manager / Chief Engineer for the Harbinger CubeSat, I oversaw all aspects of its development, from conceptualization to prototype assembly. My responsibilities included leading cross-functional teams (mechanical, electrical, software), managing project timelines and budgets, and mitigating technical risks. I personally contributed to the design of critical PCBs for power distribution and communication. The embedded flight software was developed primarily in Rust, focusing on reliability and resource efficiency, crucial for space applications. This project significantly enhanced my skills in systems engineering, project management, and embedded software development."
 	},
 	{
-	  "name": "Stainless Steel Bunsen Burner",
-	  "featured": true,
-	  "short_description": "Designed and manufactured a lightweight stainless steel camping stove, leveraging CNC technology to streamline its manufacturing process. Innovatively controlled gas flow using a laser-cut rubber gasket as a valve.",
-	  "images": [
-		{
-		  "source": "./projects/stove/stove.jpg",
-		  "caption": "Final assembly of the stainless steel after polishing."
-		},
-		{
-		  "source": "./projects/stove/cad.jpg",
-		  "caption": "The CAD model of the full assembly of the stove."
-		},
-		{
-		  "source": "./projects/stove/assembly.jpg",
-		  "caption": "Detailed drawing of the stove and how the innovative valve works."
-		}
-	  ],
-	  "long_description": "This project involved the full lifecycle of product development, from initial concept to a functional prototype. Utilizing Fusion 360, I designed the stove to be lightweight and compact, optimizing for portability. The manufacturing process incorporated CNC laser cutting for precision and efficiency, ensuring minimal material waste. A novel aspect of the design was the gas flow control mechanism, which utilized a custom laser-cut rubber gasket as a valve, providing precise flame adjustment without complex mechanical parts. This project honed my skills in DFM (Design for Manufacturability), material selection, and rapid prototyping."
+		"name": "Stainless Steel Bunsen Burner",
+		"featured": true,
+		"short_description": "Designed and manufactured a lightweight stainless steel camping stove, leveraging CNC technology to streamline its manufacturing process. Innovatively controlled gas flow using a laser-cut rubber gasket as a valve.",
+		"images": [
+			{
+				"source": "./projects/stove/stove.jpg",
+				"caption": "Final assembly of the stainless steel after polishing."
+			},
+			{
+				"source": "./projects/stove/cad.jpg",
+				"caption": "The CAD model of the full assembly of the stove."
+			},
+			{
+				"source": "./projects/stove/assembly.jpg",
+				"caption": "Detailed drawing of the stove and how the innovative valve works."
+			}
+		],
+		"long_description": "This project involved the full lifecycle of product development, from initial concept to a functional prototype. Utilizing Fusion 360, I designed the stove to be lightweight and compact, optimizing for portability. The manufacturing process incorporated CNC laser cutting for precision and efficiency, ensuring minimal material waste. A novel aspect of the design was the gas flow control mechanism, which utilized a custom laser-cut rubber gasket as a valve, providing precise flame adjustment without complex mechanical parts. This project honed my skills in DFM (Design for Manufacturability), material selection, and rapid prototyping."
 	},
 	{
-	  "name": "Turbo Regatta (Boat Drivetrain)",
-	  "featured": true,
-	  "short_description": "Led a team to develop a marine propulsion assembly, including designing an electric motor. Performed optimization and Finite Element Analysis to ensure passenger safety. Manufactured and assembled the final system.",
-	  "images": [
-		{
-		  "source": "./projects/boat/boat.jpg",
-		  "caption": "Full assembly of the final prototype right before the race."
-		},
-		{
-			"source": "./projects/boat/control.jpg",
-			"caption": "Control box that I created to prevent electronics from water exposure."
-		},
-		{
-		  "source": "./projects/boat/drawing.jpg",
-		  "caption": "Section view drawing of the motor propulsion unit."
-		},
-		{
-			"source": "./projects/boat/laminations.jpg",
-			"caption": "Laminations of motor that were cut using a laser."
-		},
-		{
-			"source": "./projects/boat/motor.jpg",
-			"caption": "Close up the full assembly of the motor propulsion unit."
-		}
-	  ],
-	  "long_description": "This team project focused on designing and building an efficient and safe marine propulsion system. My role involved leading the mechanical design phase, including the custom electric motor housing and the shaft coupling to the propeller. I extensively utilized ANSYS for Finite Element Analysis to predict structural integrity under various operating conditions and optimize material usage for weight reduction without compromising safety. The project culminated in the successful manufacturing and assembly of the drivetrain, demonstrating practical application of advanced engineering principles and effective team collaboration."
+		"name": "Turbo Regatta (Boat Drivetrain)",
+		"featured": true,
+		"short_description": "Led a team to develop a marine propulsion assembly, including designing an electric motor. Performed optimization and Finite Element Analysis to ensure passenger safety. Manufactured and assembled the final system.",
+		"images": [
+			{
+				"source": "./projects/boat/boat.jpg",
+				"caption": "Full assembly of the final prototype right before the race."
+			},
+			{
+				"source": "./projects/boat/control.jpg",
+				"caption": "Control box that I created to prevent electronics from water exposure."
+			},
+			{
+				"source": "./projects/boat/drawing.jpg",
+				"caption": "Section view drawing of the motor propulsion unit."
+			},
+			{
+				"source": "./projects/boat/laminations.jpg",
+				"caption": "Laminations of motor that were cut using a laser."
+			},
+			{
+				"source": "./projects/boat/motor.jpg",
+				"caption": "Close up the full assembly of the motor propulsion unit."
+			}
+		],
+		"long_description": "This team project focused on designing and building an efficient and safe marine propulsion system. My role involved leading the mechanical design phase, including the custom electric motor housing and the shaft coupling to the propeller. I extensively utilized ANSYS for Finite Element Analysis to predict structural integrity under various operating conditions and optimize material usage for weight reduction without compromising safety. The project culminated in the successful manufacturing and assembly of the drivetrain, demonstrating practical application of advanced engineering principles and effective team collaboration."
 	},
 	{
-	  "name": "Modern Controls & UAV Development",
-	  "featured": false,
-	  "short_description": "Explored advanced control theory applications, including PID tuning and state-space control, applied to Unmanned Aerial Vehicles (UAVs).",
-	  "images": [
-		{
-		  "source": "./projects/modern_controls_uav.jpg",
-		  "caption": "Simulation environment for UAV flight control, demonstrating trajectory tracking."
-		},
-		{
-		  "source": "./projects/uav_hardware.jpg",
-		  "caption": "Prototype UAV frame used for sensor integration and control algorithm testing."
-		}
-	  ],
-	  "long_description": "In this project, I delved into modern control techniques, applying them to the stabilization and navigation of UAVs. This involved developing and implementing algorithms for attitude control, position hold, and waypoint navigation using MATLAB/Simulink for simulation and Python for real-time control. I gained hands-on experience with sensor fusion (IMU, GPS) and embedded programming on STM32 microcontrollers. The project emphasized robust control system design and performance optimization under varying environmental conditions."
+		"name": "Modern Controls & UAV Development",
+		"featured": false,
+		"short_description": "Explored advanced control theory applications, including PID tuning and state-space control, applied to Unmanned Aerial Vehicles (UAVs).",
+		"images": [
+			{
+				"source": "./projects/modern_controls_uav.jpg",
+				"caption": "Simulation environment for UAV flight control, demonstrating trajectory tracking."
+			},
+			{
+				"source": "./projects/uav_hardware.jpg",
+				"caption": "Prototype UAV frame used for sensor integration and control algorithm testing."
+			}
+		],
+		"long_description": "In this project, I delved into modern control techniques, applying them to the stabilization and navigation of UAVs. This involved developing and implementing algorithms for attitude control, position hold, and waypoint navigation using MATLAB/Simulink for simulation and Python for real-time control. I gained hands-on experience with sensor fusion (IMU, GPS) and embedded programming on STM32 microcontrollers. The project emphasized robust control system design and performance optimization under varying environmental conditions."
 	},
 	{
-	  "name": "Autopilot System Design",
-	  "featured": false,
-	  "short_description": "Designed and implemented a simplified autopilot system for small aircraft, focusing on altitude and heading hold functionalities.",
-	  "images": [
-		{
-		  "source": "./projects/autopilot_sim.jpg",
-		  "caption": "Graphical representation of autopilot flight path control in a simulation environment."
-		},
-		{
-		  "source": "./projects/autopilot_schematic.jpg",
-		  "caption": "Block diagram of the autopilot control logic, detailing sensor inputs and actuator outputs."
-		}
-	  ],
-	  "long_description": "This project involved the conceptualization and simulation of an autopilot system. Key aspects included developing algorithms for maintaining altitude and heading, utilizing data from simulated gyroscopes and accelerometers. I focused on robust error correction and smooth control transitions. The project significantly enhanced my understanding of feedback control systems, sensor integration challenges, and the intricacies of aerospace control."
+		"name": "Autopilot System Design",
+		"featured": false,
+		"short_description": "Designed and implemented a simplified autopilot system for small aircraft, focusing on altitude and heading hold functionalities.",
+		"images": [
+			{
+				"source": "./projects/autopilot_sim.jpg",
+				"caption": "Graphical representation of autopilot flight path control in a simulation environment."
+			},
+			{
+				"source": "./projects/autopilot_schematic.jpg",
+				"caption": "Block diagram of the autopilot control logic, detailing sensor inputs and actuator outputs."
+			}
+		],
+		"long_description": "This project involved the conceptualization and simulation of an autopilot system. Key aspects included developing algorithms for maintaining altitude and heading, utilizing data from simulated gyroscopes and accelerometers. I focused on robust error correction and smooth control transitions. The project significantly enhanced my understanding of feedback control systems, sensor integration challenges, and the intricacies of aerospace control."
 	},
 	{
 		"name": "MECH 1100: Mold Design / Machining",
@@ -116,36 +116,35 @@
 		]
 	},
 	{
-	  "name": "MECH 1100: Toolpaths & Manufacturing Process Observation",
-	  "featured": false,
-	  "short_description": "Gained practical experience in generating CNC toolpaths and observed various manufacturing processes in an industrial setting.",
-	  "images": [
-		{
-		  "source": "./projects/mech1100_toolpath.jpg",
-		  "caption": "CNC toolpath visualization for a complex machined part."
-		},
-		{
-		  "source": "./projects/manufacturing_observation.jpg",
-		  "caption": "Observation of a manufacturing process, highlighting safety protocols and operational workflow."
-		}
-	  ],
-	  "long_description": "As part of MECH 1100, I engaged directly with manufacturing principles. This included hands-on experience with CAM software (Fusion 360) to generate efficient and precise toolpaths for CNC milling and turning operations. I also participated in facility tours and observed various manufacturing processes, from sheet metal fabrication to injection molding, gaining insights into quality control, lean manufacturing principles, and industrial safety standards. This practical exposure cemented my theoretical understanding of production engineering."
+		"name": "MECH 1100: Toolpaths & Manufacturing Process Observation",
+		"featured": false,
+		"short_description": "Gained practical experience in generating CNC toolpaths and observed various manufacturing processes in an industrial setting.",
+		"images": [
+			{
+				"source": "./projects/mech1100_toolpath.jpg",
+				"caption": "CNC toolpath visualization for a complex machined part."
+			},
+			{
+				"source": "./projects/manufacturing_observation.jpg",
+				"caption": "Observation of a manufacturing process, highlighting safety protocols and operational workflow."
+			}
+		],
+		"long_description": "As part of MECH 1100, I engaged directly with manufacturing principles. This included hands-on experience with CAM software (Fusion 360) to generate efficient and precise toolpaths for CNC milling and turning operations. I also participated in facility tours and observed various manufacturing processes, from sheet metal fabrication to injection molding, gaining insights into quality control, lean manufacturing principles, and industrial safety standards. This practical exposure cemented my theoretical understanding of production engineering."
 	},
 	{
-	  "name": "FEA Case Studies & Application",
-	  "featured": false,
-	  "short_description": "Conducted Finite Element Analysis (FEA) on various mechanical structures to predict behavior under stress, strain, and thermal loads.",
-	  "images": [
-		{
-		  "source": "./projects/fea_beam_analysis.jpg",
-		  "caption": "FEA stress analysis result for a cantilever beam under bending load."
-		},
-		{
-		  "source": "./projects/fea_thermal_expansion.jpg",
-		  "caption": "FEA simulation of thermal expansion in a constrained assembly."
-		}
-	  ],
-	  "long_description": "This ongoing area of expertise involves applying Finite Element Analysis (FEA) using ANSYS to solve complex engineering problems. I've performed simulations on diverse components, including structural integrity analysis, thermal stress analysis, and vibration modes. My work focuses on interpreting FEA results to optimize designs, predict failure points, and ensure compliance with safety standards. This skill is critical for validating theoretical designs before physical prototyping, saving significant time and resources."
+		"name": "FEA Case Studies & Application",
+		"featured": false,
+		"short_description": "Conducted Finite Element Analysis (FEA) on various mechanical structures to predict behavior under stress, strain, and thermal loads.",
+		"images": [
+			{
+				"source": "./projects/fea_beam_analysis.jpg",
+				"caption": "FEA stress analysis result for a cantilever beam under bending load."
+			},
+			{
+				"source": "./projects/fea_thermal_expansion.jpg",
+				"caption": "FEA simulation of thermal expansion in a constrained assembly."
+			}
+		],
+		"long_description": "This ongoing area of expertise involves applying Finite Element Analysis (FEA) using ANSYS to solve complex engineering problems. I've performed simulations on diverse components, including structural integrity analysis, thermal stress analysis, and vibration modes. My work focuses on interpreting FEA results to optimize designs, predict failure points, and ensure compliance with safety standards. This skill is critical for validating theoretical designs before physical prototyping, saving significant time and resources."
 	}
-  ]
-  
+]

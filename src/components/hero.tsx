@@ -21,14 +21,15 @@ export default function Hero() {
 					RENO WARNER
 				</h1>
 				<p className="text-2xl md:text-3xl font-bold">
-					MULTIDISCIPLINARY MECHANICAL ENGINEER
+					LLM Enabled Systems Engineer
 				</p>
 				<p className="max-w-2xl mt-2 text-lg md:text-xl mb-2">
-					An enthusiastic, innovative, and adaptable Mechanical
-					Engineer with a passion for designing, fabricating, and
-					optimizing complex mechanical and embedded systems, bringing
-					conceptual ideas to life through hands-on experience and
-					advanced analytical techniques.
+					An innovative engineer solving complex, real-world problems
+					by bridging high-performance physics-backed simulations with
+					cutting-edge artificial intelligence. Specialized in
+					developing serverless LLM applications, local edge machine
+					learning inference engines in Rust/WASM, and
+					high-reliability embedded systems.
 				</p>
 				<div className="flex justify-around flex-wrap [&>a]:inline-flex [&>a]:items-center [&>a]:justify-center [&>a]:rounded-lg [&>a]:border-4 [&>a]:my-2 [&>a]:border-black [&>a]:w-full [&>a]:md:w-6/16 [&>a]:transition [&>a]:hover:scale-105">
 					<Link

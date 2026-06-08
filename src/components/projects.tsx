@@ -3,6 +3,7 @@ import projects from "../../data/projects.json"; // Adjust path if needed
 import Project from "./project";
 
 export type Projects = typeof projects;
+export type IProject = (typeof projects)[0];
 
 export default function Projects() {
 	const [opened, setIsOpen] = useState(-1);

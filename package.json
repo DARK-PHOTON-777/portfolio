@@ -9,7 +9,7 @@
 		"start": "next start",
 		"lint": "next lint",
 		"format": "biome format --write .",
-		"validate": "npm run validate --workspaces --if-present",
+		"validate": "npm run build",
 		"precommit": "lint-staged",
 		"prepush": "npm run validate"
 	},

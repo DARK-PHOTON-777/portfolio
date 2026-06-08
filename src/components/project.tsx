@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { SlArrowDown, SlArrowUp } from "react-icons/sl";
-import type { Project as IProject } from "./projects";
+import type { IProject } from "./projects";
 
 export default function Project({
 	project,
